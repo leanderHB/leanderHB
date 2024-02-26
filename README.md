@@ -1,4 +1,7 @@
-### Hi there 👋
+# Leander's repo
+Hi! I study maths and physics, and am currently doing my master thesis. 
+
+I like dynamical systems and anything that has dynamics really. I'm currently working on patterns in ecosystems, and their interactions!
 
 <!--
 **leanderHB/leanderHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
